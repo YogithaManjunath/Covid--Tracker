@@ -1,0 +1,28 @@
+.countryTable{
+    border:1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+.tableBody{
+    border:1px solid black;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+th {
+    background-color: darkblue;
+    color: white;
+  }
+  
+  th,
+  td {
+    width: 200px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+  }
+  
+  h1 {
+    color:darkblue;
+  }
